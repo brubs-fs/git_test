@@ -1,3 +1,3 @@
 # git_test
-testing new things 
+testing 
 codding everything
